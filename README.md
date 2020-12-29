@@ -38,6 +38,9 @@ I had 13 zipcodes to model. I used a moving window function to remove trend and 
 - 11426: 333% increase
 - 11385: 211% increase
 - 11004: 186% increase
+
+### Recommendation
+
 The ROI equation includes dividing by initial predicted average that varies by zip code which is why percentage may not be clearly represent the graph. The best graph was that of the 11428 zip code.
 
 ![](NOTEBOOKS/data/forecast)
